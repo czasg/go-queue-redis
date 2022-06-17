@@ -1,0 +1,4 @@
+github.com/czasg/go-queue v0.0.0-20220528034710-413f3a61077f h1:i3R+pI/ZwnviF5ppl3rVc9Nv3Xi+lBC0UPt7OmzzpKc=
+github.com/czasg/go-queue v0.0.0-20220528034710-413f3a61077f/go.mod h1:Myb/1g8zHhdc13TwwkSuJ5wShsub1yoPrT+ta8isZQ4=
+github.com/go-redis/redis v6.15.9+incompatible h1:K0pv1D7EQUjfyoMql+r/jZqCLizCGKFlFgcHWWmHQjg=
+github.com/go-redis/redis v6.15.9+incompatible/go.mod h1:NAIEuMOZ/fxfXJIrKDQDz8wamY7mA7PouImQ2Jvg6kA=
